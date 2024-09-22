@@ -1,0 +1,76 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mois_\\source\\repos\\Laboratorio 4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A1C2F69B-4D32-40B4-B083-88E62395DBA5}|Laboratorio 4\\Laboratorio 4.vbproj|c:\\users\\mois_\\source\\repos\\laboratorio 4\\laboratorio 4\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{A1C2F69B-4D32-40B4-B083-88E62395DBA5}|Laboratorio 4\\Laboratorio 4.vbproj|solutionrelative:laboratorio 4\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1C2F69B-4D32-40B4-B083-88E62395DBA5}|Laboratorio 4\\Laboratorio 4.vbproj|c:\\users\\mois_\\source\\repos\\laboratorio 4\\laboratorio 4\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{A1C2F69B-4D32-40B4-B083-88E62395DBA5}|Laboratorio 4\\Laboratorio 4.vbproj|solutionrelative:laboratorio 4\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\mois_\\source\\repos\\Laboratorio 4\\Laboratorio 4\\Form1.vb",
+              "RelativeDocumentMoniker": "Laboratorio 4\\Form1.vb",
+              "ToolTip": "C:\\Users\\mois_\\source\\repos\\Laboratorio 4\\Laboratorio 4\\Form1.vb",
+              "RelativeToolTip": "Laboratorio 4\\Form1.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-09-20T12:33:55.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\mois_\\source\\repos\\Laboratorio 4\\Laboratorio 4\\Form1.vb",
+              "RelativeDocumentMoniker": "Laboratorio 4\\Form1.vb",
+              "ToolTip": "Laboratorio 4/Form1.vb",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "OverriddenGroupName": "Laboratorio 4",
+              "OverriddenToolTip": "Laboratorio 4/Form1.vb",
+              "WhenOpened": "2024-09-20T12:15:18.35Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

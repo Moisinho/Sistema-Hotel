@@ -1,0 +1,16 @@
+C:\Users\mois_\source\repos\Laboratorio 4\Laboratorio 4\bin\Debug\net8.0-windows\Laboratorio 4.exe
+C:\Users\mois_\source\repos\Laboratorio 4\Laboratorio 4\bin\Debug\net8.0-windows\Laboratorio 4.deps.json
+C:\Users\mois_\source\repos\Laboratorio 4\Laboratorio 4\bin\Debug\net8.0-windows\Laboratorio 4.runtimeconfig.json
+C:\Users\mois_\source\repos\Laboratorio 4\Laboratorio 4\bin\Debug\net8.0-windows\Laboratorio 4.dll
+C:\Users\mois_\source\repos\Laboratorio 4\Laboratorio 4\bin\Debug\net8.0-windows\Laboratorio 4.pdb
+C:\Users\mois_\source\repos\Laboratorio 4\Laboratorio 4\obj\Debug\net8.0-windows\Laboratorio_4.Form1.resources
+C:\Users\mois_\source\repos\Laboratorio 4\Laboratorio 4\obj\Debug\net8.0-windows\Laboratorio 4.vbproj.GenerateResource.cache
+C:\Users\mois_\source\repos\Laboratorio 4\Laboratorio 4\obj\Debug\net8.0-windows\Laboratorio 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mois_\source\repos\Laboratorio 4\Laboratorio 4\obj\Debug\net8.0-windows\Laboratorio 4.AssemblyInfoInputs.cache
+C:\Users\mois_\source\repos\Laboratorio 4\Laboratorio 4\obj\Debug\net8.0-windows\Laboratorio 4.AssemblyInfo.vb
+C:\Users\mois_\source\repos\Laboratorio 4\Laboratorio 4\obj\Debug\net8.0-windows\Laboratorio 4.vbproj.CoreCompileInputs.cache
+C:\Users\mois_\source\repos\Laboratorio 4\Laboratorio 4\obj\Debug\net8.0-windows\Laboratorio 4.dll
+C:\Users\mois_\source\repos\Laboratorio 4\Laboratorio 4\obj\Debug\net8.0-windows\refint\Laboratorio 4.dll
+C:\Users\mois_\source\repos\Laboratorio 4\Laboratorio 4\obj\Debug\net8.0-windows\Laboratorio 4.pdb
+C:\Users\mois_\source\repos\Laboratorio 4\Laboratorio 4\obj\Debug\net8.0-windows\Laboratorio 4.genruntimeconfig.cache
+C:\Users\mois_\source\repos\Laboratorio 4\Laboratorio 4\obj\Debug\net8.0-windows\ref\Laboratorio 4.dll
